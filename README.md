@@ -5,7 +5,7 @@
 </div>
 
 
-<div id="badges" style="align-text:center">
+<div id="badges" align="center">
   <a href="https://www.linkedin.com/in/fatu-cristian-36412a209/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" class="center"/>
   </a>
