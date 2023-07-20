@@ -11,6 +11,14 @@
   </a>
 </div>
 
+{
+  "name": "Your Name",
+  "university": "University Politehnica Bucharest",
+  "faculty": "Faculty of Automatic Control and Computer Science",
+  "year": "4th year",
+  "interests": ["Spring Boot", "Java"],
+  "description": "I am a 4th year student at the Faculty of Automatic Control and Computer Science, studying at the prestigious University Politehnica Bucharest. My passion lies in the field of software development,         particularly in Spring Boot and Java. With a strong foundation in programming concepts and an eagerness to learn, I am constantly exploring new technologies and striving to enhance my skills. I am excited to contribute     to innovative projects and collaborate with fellow developers to create impactful solutions. Through my Git repositories, I aim to showcase my work and share my journey as I grow as a software engineer."
+}
 
 
 <!--
