@@ -11,17 +11,26 @@
   </a>
 </div>
 
-{
-  "name": "Your Name",
-  "university": "University Politehnica Bucharest",
-  "faculty": "Faculty of Automatic Control and Computer Science",
-  "year": "4th year",
-  "interests": [
-    "Spring Boot",
-    "Java"
-  ],
-  "description": "I am a 4th year student at the Faculty of Automatic Control and Computer Science, studying at the prestigious University Politehnica Bucharest. My passion lies in the field of software development, particularly in Spring Boot and Java. With a strong foundation in programming concepts and an eagerness to learn, I am constantly exploring new technologies and striving to enhance my skills. I am excited to contribute to innovative projects and collaborate with fellow developers to create impactful solutions. Through my Git repositories, I aim to showcase my work and share my journey as I grow as a software engineer."
-}
+## Profile
+
+I am a software developer with a passion for building innovative solutions. I have experience in various domains, including web development, software engineering, and data analysis. My goal is to leverage my skills and knowledge to create robust and user-friendly applications.
+
+### Skills
+
+- **Programming Languages:** Java, SpringBoot, JavaScript, HTML, CSS, SQL
+- **Soft Skills:**: Time Management, Teamwork
+### Technologies
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="SQL" alt="SQL" width="40" height="40">
+</div>
+
 
 
 
