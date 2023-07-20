@@ -4,13 +4,13 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW90cGpvMTU5dTV0ZjRhOGZiZnI4cXpsOGhjajh5YzY0MWl2eWR3ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-<p align="center">
-<div id="badges">
+
+<div id="badges" style="align-text:center">
   <a href="https://www.linkedin.com/in/fatu-cristian-36412a209/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" class="center"/>
   </a>
 </div>
-</p>
+
 
 
 <!--
