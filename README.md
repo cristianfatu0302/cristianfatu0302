@@ -6,17 +6,12 @@
 
 
 <div id="badges">
+  <a href="https://www.linkedin.com/in/fatu-cristian-36412a209/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" class="center"/>
+  </a>
 </div>
 
-<style>
-  .center {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
-}
-</style>
+
 <!--
 **cristianfatu0302/cristianfatu0302** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
